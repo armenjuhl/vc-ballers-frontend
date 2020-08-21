@@ -1,3 +1,4 @@
+VC Ballers is an MVP of a closed social network for professional athletes.
 
 ## Available Scripts
 
